@@ -11,6 +11,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+
 .logo img{
     height: 10vh;
     width: auto;
@@ -34,4 +35,17 @@ footer{
 }
 .footer a{
     color: white;
+}
+
+.btn{
+  background: #99cc60;
+  color: black;
+  border-radius: 20px;
+  padding: 1% 5%;
+  border: 1px solid #99cc60;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background: #ccff90;
 }
